@@ -1,0 +1,166 @@
+
+
+
+
+body, div, p,img,dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, blockquote {
+	padding:0px;
+	margin:0px;
+}
+.FontRed{
+	color:#FF0000;}
+h3{
+	font-size:14px;}
+
+li{
+	list-style-type:none;}
+
+img{border:0; 
+	}
+.gray{
+	color:#666666;}
+a{color:#333333;text-decoration:none;}
+a:hover {text-decoration:underline;color:#c90100;}
+a:active{text-decoration:underline;}
+
+
+
+
+
+
+/* main block*/
+#body .MainBlock{
+	font-size:12px;
+	width:980px;
+	margin:auto;
+	background-color:#FFFFFF;}
+#body .MainBlock .left{
+	float:left;
+	width:320px;
+	height:260px;
+	overflow:hidden;
+	}
+#body .topic{
+	height:35px;
+	line-height:35px;
+	border-bottom:2px solid #dddddd;
+}
+#body   .topic .TopicTitle{
+	float:left;
+	font-weight:bold;
+	padding:0px 10px;
+	font-size:14px;
+	color:#c90100;
+	height:35px;
+	border-bottom:2px solid #c90100;}
+#body   .topic .TopicMore{
+	float:right;
+	font-size:12px;
+	padding-right:10px;
+	padding-top:13px;}
+#body   .topic .TopicMore img{
+	}				
+	
+#body  .left  .MBlockTable li{
+	line-height:26px;
+	font-size:12px;
+	padding-top:2px;
+}
+#body .MainBlock .left  .MBlockTable span{
+	color:#c90100;
+	font-size:12px;
+	font-weight:bold;
+	padding-right:10px;
+	}
+#body .MainBlock .left  .MBlockTable p{
+	padding-left:15px;
+	color:#999;
+	line-height:245%;
+	}
+	
+#body .MainBlock .right{
+	width:630px;
+	float:right;
+	height:260px;
+	overflow:hidden;
+	}
+#body .MainBlock .right .img{
+	width:200px;
+	 padding:10px;
+	 float:left;}
+#body .MainBlock .right .txt{
+	width:380px;
+	 line-height:200%;
+	 padding:10px;
+	 float:right;}
+#body .MainBlock .right .txt p{
+	line-height:200%;}
+#body .CenShadow{
+	width:980px;
+	margin:auto;
+	background:url("/images/HituxCMSDeepRed/cen_shadow.gif") no-repeat center top;
+	height:37px;}
+
+#body .MainBlock  .blk_29 {	 PADDING:0px 0px; OVERFLOW: hidden;  ZOOM: 1; POSITION: relative;}
+	
+#body .MainBlock  .blk_29 .LeftBotton {	BACKGROUND: url(/images/HituxCMSDeepRed/arrow_left.png) no-repeat -1px 0px; LEFT: 0px; FLOAT: left; WIDTH: 35px; CURSOR: pointer; POSITION: absolute; TOP: 65px; HEIGHT: 114px}
+#body .MainBlock  .blk_29 .RightBotton {	RIGHT: 0px; BACKGROUND: url(/images/HituxCMSDeepRed/arrow_right.png) no-repeat -0px 0px; FLOAT: right;right:-12px; WIDTH: 35px; CURSOR: pointer; POSITION: absolute; TOP: 65px; HEIGHT: 114px}
+#body .MainBlock  .blk_29 .Cont {	MARGIN: 0px auto; OVERFLOW: hidden;  PADDING:10px 0 0 0px;float:left;height:170px;width:591px;POSITION: relative;left:17px;}
+#body .MainBlock  .blk_29 .box {	FLOAT: left; WIDTH: 197px; TEXT-ALIGN: center;}
+#body .MainBlock  .blk_29 .box IMG {	BORDER: #ccc 1px solid; PADDING: 3px; DISPLAY: block; BACKGROUND: #fff; PADDING-BOTTOM: 3px; MARGIN: 0px auto; width:145px;height:145px;}
+#body .MainBlock  .blk_29 .box A:hover IMG {	BORDER: #c90100 1px solid;}
+#body .MainBlock  .blk_29 .box P {	WIDTH: 197px; LINE-HEIGHT: 20px;text-align:center;font-size:12px;color:#c90100}
+
+
+
+#body .ProductBG{
+	height:auto;
+	background:url("/images/HituxCMSDeepRed/pro_bg.gif") repeat-x left top;
+	} 
+#body .ProductShow {
+	WIDTH: 980px; 
+	font-size:12px;
+	padding-top:10px;
+	margin:auto;
+}
+
+#body #Links {
+	width:980px;
+	margin:auto;
+	padding:20px 0px;
+	line-height:25px;
+	font-size:12px;}
+#body #Links span{
+	font-weight:bold;}
+
+#body #Links a{
+	padding:0px 7px;}	
+
+#body .Solutions{
+	padding:10px 0px;
+	}
+
+
+#body .Solutions .SolutionsInner{
+	}
+
+#body .Solutions #Solutionsdemo {
+background: #FFF;
+overflow:hidden;
+width: 978px;
+}
+
+#body .Solutions #Solutionsindemo {
+float: left;
+width: 800%;
+
+}
+#body .Solutions #Solutionsdemo1 {
+float: left;
+padding:10px 10px;
+}
+#body .Solutions #Solutionsdemo1 img{
+	padding:0px 10px;}
+#body .Solutions #Solutionsdemo2 {
+float: left;
+padding:10px 10px;
+}
